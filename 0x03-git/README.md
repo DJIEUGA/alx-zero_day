@@ -1,1 +1,1 @@
-git project subdirectory
+git project sub
